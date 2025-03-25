@@ -1,0 +1,53 @@
+/* Apply Background Image Only to Dashboard */
+.dashboard-page {
+    background: url("/new.png") no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh; /* Ensures full screen */
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Container for Buttons */
+  .dashboard-container {
+    max-width: 600px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent */
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Title */
+  .dashboard-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Buttons */
+  .button-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px !important;
+  }
+  
+  .dashboard-btn {
+    background-color: #103875;
+    color: white;
+    width:350px !important;
+    border: none;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .dashboard-btn:hover {
+    background-color: #0056b3;
+  }
+  

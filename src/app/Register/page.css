@@ -1,0 +1,147 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Container for the page */
+  .container {
+    display: flex;
+    height: 100vh; /* Ensure the container takes full viewport height */
+    overflow: hidden; /* Prevent scrolling */
+  }
+  
+  /* Left half (image section) */
+  .left-half {
+    flex: 1; /* Take up 50% of the container */
+    background-color: #f5f5f5; /* Optional background color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .left-half img {
+    width: 100%; /* Ensure the image takes full width */
+    height: 100%; /* Ensure the image fills the height */
+    object-fit: cover; /* This will crop the image to fit the container while maintaining aspect ratio */
+  }
+  
+  /* Right half (login form section) */
+  .right-half {
+    flex: 1; /* Take up 50% of the container */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff; /* White background for form */
+    padding: 20px;
+  }
+  
+  /* Styling for the form */
+  form {
+    width: 100%;
+    max-width: 400px; /* Limit the form width */
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Input styling */
+  .input {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .button {
+    width: 100%;
+    padding: 15px;
+    background-color: #4c59af; /* Green button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .button:hover {
+    background-color: #4945a0; /* Darker green on hover */
+  }
+  
+  /* Error message styling */
+  p {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+  
+/* Register Link Section */
+.register-link {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.register-link p {
+  font-size: 17px;
+  color: #555;
+}
+
+.register-link button {
+  padding: 10px 20px;
+  background-color: #1a4a7c; /* Blue color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 32px;
+}
+
+.register-link button:hover {
+  background-color:#007bff ; /* Darker blue on hover */
+}
+.login-footer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 400px;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.login-footer p {
+  margin: 0;
+}
+
+.login-footer a {
+  text-decoration: none;
+  color: #007bff; /* Blue color */
+}
+
+.login-footer a:hover {
+  color: #0056b3; /* Darker blue on hover */
+}
+.account{
+  font-size: 18px;
+}
+.route{
+font-size: 20px;
+color: #1a4a7c;
+}
+button {
+    padding: 10px 20px;
+    background-color: #4c82d2; /* Blue color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width:250px;
+    cursor: pointer;
+    font-size: 24px;
+  }
+ 

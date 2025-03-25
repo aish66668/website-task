@@ -1,0 +1,36 @@
+.applications-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(162, 177, 233);
+    border-radius: 10px;
+  }
+  
+  .applications-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .application-card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    transition: transform 0.2s;
+  }
+  
+  .application-card:hover {
+    transform: scale(1.03);
+  }
+  
+  .application-card h3 {
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  .application-card p {
+    margin: 5px 0;
+  }
+  

@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "jobTitle": "Software Developer",
+    "companyName": "Abc",
+    "jobLocation": "Bangalore",
+    "employmentType": "full-time",
+    "salaryRange": "3",
+    "experience": "2"
+  },
+  {
+    "id": 2,
+    "jobTitle": "Software Developer",
+    "companyName": "Abc",
+    "jobLocation": "Bangalore",
+    "employmentType": "full-time",
+    "salaryRange": "3",
+    "experience": "3"
+  },
+  {
+    "id": 3,
+    "jobTitle": "Python Developer",
+    "companyName": "AA",
+    "jobLocation": "Bangalore",
+    "employmentType": "part-time",
+    "salaryRange": "6",
+    "experience": "3"
+  },
+  {
+    "id": 4,
+    "jobTitle": "Node js Developer",
+    "companyName": "Z",
+    "jobLocation": "Bangalore",
+    "employmentType": "contract",
+    "salaryRange": "4",
+    "experience": "5"
+  },
+  {
+    "id": 5,
+    "jobTitle": "Software Intern",
+    "companyName": "S",
+    "jobLocation": "Bangalore",
+    "employmentType": "full-time",
+    "salaryRange": "3",
+    "experience": "3"
+  },
+  {
+    "id": 6,
+    "jobTitle": "Software Intern",
+    "companyName": "Abc",
+    "jobLocation": "Bangalore",
+    "employmentType": "",
+    "salaryRange": "3",
+    "experience": "3"
+  },
+  {
+    "id": 7,
+    "jobTitle": "React Js Developer",
+    "companyName": "Asd",
+    "jobLocation": "Bangalore",
+    "employmentType": "part-time",
+    "salaryRange": "3",
+    "experience": "2"
+  },
+  {
+    "id": 8,
+    "jobTitle": "Software Developer",
+    "companyName": "Abc",
+    "jobLocation": "Bangalore",
+    "employmentType": "",
+    "salaryRange": "1",
+    "experience": "1"
+  },
+  {
+    "id": 9,
+    "jobTitle": "Python Developer",
+    "companyName": "Abc",
+    "jobLocation": "Bangalore",
+    "employmentType": "part-time",
+    "salaryRange": "3",
+    "experience": "4"
+  },
+  {
+    "id": 10,
+    "jobTitle": "Node js Developer",
+    "companyName": "Abc",
+    "jobLocation": "Bangalore",
+    "employmentType": "contract",
+    "salaryRange": "4",
+    "experience": "5"
+  },
+  {
+    "id": 11,
+    "jobTitle": "Java Developer",
+    "companyName": "Abc",
+    "jobLocation": "Bangalore",
+    "employmentType": "part-time",
+    "salaryRange": "3-4",
+    "experience": "4"
+  },
+  {
+    "id": 12,
+    "jobTitle": "Mern Stack Developer",
+    "companyName": "Xyz",
+    "jobLocation": "Bangalore",
+    "employmentType": "part-time",
+    "salaryRange": "3",
+    "experience": "4"
+  },
+  {
+    "id": 13,
+    "jobTitle": "Full Stack Developer",
+    "companyName": "Abc",
+    "jobLocation": "Bangalore",
+    "employmentType": "contract",
+    "salaryRange": "3-4",
+    "experience": "4"
+  },
+  {
+    "id": 14,
+    "jobTitle": "Node js Developer",
+    "companyName": "Abc",
+    "jobLocation": "Bangalore",
+    "employmentType": "",
+    "salaryRange": "3-4",
+    "experience": "4"
+  },
+  {
+    "id": 15,
+    "jobTitle": "Node js Developer",
+    "companyName": "Abc",
+    "jobLocation": "Bangalore",
+    "employmentType": "",
+    "salaryRange": "3-4",
+    "experience": "4"
+  }
+]

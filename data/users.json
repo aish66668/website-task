@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "email": "alice@example.com",
+    "password": "alice123"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "email": "bob@example.com",
+    "password": "bob123"
+  },
+  {
+    "email": "asd@gmail.com",
+    "password": "asd"
+  },
+  {
+    "email": "dd@gmail.com",
+    "password": "dd"
+  },
+  {
+    "email": "awe@gmail.com",
+    "password": "awe"
+  },
+  {
+    "id": 6,
+    "name": "",
+    "email": "bb@gmail.com",
+    "password": "bb"
+  },
+  {
+    "id": 7,
+    "name": "",
+    "email": "cc@gmail.com",
+    "password": "cc"
+  },
+  {
+    "id": 8,
+    "name": "",
+    "email": "abcd@gmail.com",
+    "password": "abcd"
+  },
+  {
+    "id": 9,
+    "name": "",
+    "email": "aws@gmail.com",
+    "password": "aws1"
+  },
+  {
+    "id": 10,
+    "name": "",
+    "email": "aqq@gmail.com",
+    "password": "aqq"
+  },
+  {
+    "id": 11,
+    "name": "",
+    "email": "aiswarya@gmail.com",
+    "password": "aiswarya"
+  }
+]

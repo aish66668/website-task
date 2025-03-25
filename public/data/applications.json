@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "name": "Aa",
+    "email": "aa@gmail.com",
+    "jobId": "1"
+  },
+  {
+    "id": 2,
+    "name": "aa",
+    "email": "aa@gmail.com",
+    "jobId": "1"
+  },
+  {
+    "id": 3,
+    "name": "abc",
+    "email": "abc@gmail.com",
+    "jobId": "1"
+  },
+  {
+    "id": 4,
+    "name": "aa",
+    "email": "aa@gmail.com",
+    "jobId": "1"
+  },
+  {
+    "id": 5,
+    "name": "Anu",
+    "email": "Anu@gmail.com",
+    "jobId": "2"
+  },
+  {
+    "id": 6,
+    "name": "Tom",
+    "email": "tom@gmail.com",
+    "phone": "9089098799",
+    "experience": "3",
+    "skills": "React",
+    "preferredLocation": "Bangalore",
+    "currentCTC": "1",
+    "expectedCTC": "2",
+    "coverLetter": "",
+    "jobId": "1",
+    "appliedAt": "2025-03-20T11:18:22.998Z"
+  },
+  {
+    "id": 7,
+    "name": "Tom",
+    "email": "tom@gmail.com",
+    "phone": "9089098799",
+    "experience": "3",
+    "skills": "React",
+    "preferredLocation": "Bangalore",
+    "currentCTC": "1",
+    "expectedCTC": "2",
+    "coverLetter": "",
+    "jobId": "1",
+    "appliedAt": "2025-03-20T11:18:23.007Z"
+  },
+  {
+    "id": 8,
+    "name": "John Doen",
+    "email": "john@gmail.com",
+    "phone": "9876565666",
+    "experience": "3",
+    "skills": "React JS",
+    "preferredLocation": "Bangalore",
+    "currentCTC": "3",
+    "expectedCTC": "2",
+    "coverLetter": "",
+    "jobId": "1",
+    "appliedAt": "2025-03-20T12:07:15.037Z"
+  },
+  {
+    "id": 9,
+    "name": "John Doen",
+    "email": "john@gmail.com",
+    "phone": "8687757656",
+    "experience": "3",
+    "skills": "React",
+    "preferredLocation": "Bangalore",
+    "currentCTC": "4",
+    "expectedCTC": "4",
+    "coverLetter": "",
+    "jobId": "1",
+    "appliedAt": "2025-03-21T03:09:29.328Z"
+  },
+  {
+    "id": 10,
+    "name": "Ram",
+    "email": "ram@gmail.com",
+    "phone": "8976547388",
+    "experience": "3",
+    "skills": "Java",
+    "preferredLocation": "Bangalore",
+    "currentCTC": "3",
+    "expectedCTC": "5",
+    "coverLetter": "Java",
+    "jobId": "3",
+    "appliedAt": "2025-03-21T08:59:38.146Z"
+  },
+  {
+    "id": 11,
+    "name": "Anu",
+    "email": "anu@gmail.com",
+    "phone": "9876778900",
+    "experience": "2",
+    "skills": "Python",
+    "preferredLocation": "Bangalore",
+    "currentCTC": "3",
+    "expectedCTC": "3",
+    "coverLetter": "Python ",
+    "jobId": "1",
+    "appliedAt": "2025-03-21T10:00:32.632Z"
+  },
+  {
+    "id": 12,
+    "name": "Navya",
+    "email": "navya@gmail.com",
+    "phone": "876787657",
+    "experience": "3",
+    "skills": "React",
+    "preferredLocation": "Bangalore",
+    "currentCTC": "3",
+    "expectedCTC": "3",
+    "coverLetter": "",
+    "jobId": "1",
+    "appliedAt": "2025-03-21T10:07:18.426Z"
+  },
+  {
+    "id": 13,
+    "name": "Aiswarya Jagadees",
+    "email": "aiswaryajagadees@gmail.com",
+    "phone": "7576565767",
+    "experience": "2",
+    "skills": "React",
+    "preferredLocation": "Bangalore",
+    "currentCTC": "2",
+    "expectedCTC": "3",
+    "coverLetter": "React",
+    "jobId": "1",
+    "appliedAt": "2025-03-21T10:35:20.267Z"
+  }
+]

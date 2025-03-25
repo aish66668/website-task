@@ -1,0 +1,6 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    height:55px;
+    background-color: #021228;
+}
