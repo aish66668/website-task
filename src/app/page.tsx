@@ -141,7 +141,7 @@ const MainPage = () => {
       </ul>
     </nav>
     <div style={{background:"white"}}>
-  <div><button className='button1'><img src="img2.png" width={30} height={30}/>Acumatica Demo</button></div>  </div>
+  <button className='button1'><img src="img2.png" width={30} height={30}/>Acumatica Demo</button></div>  
   <div><button className='button2'><img src="img4.png" width={30} height={30}/>Support</button></div>  
     </div>
     <div style={{display:"flex"}}className='first'>
